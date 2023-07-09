@@ -1,0 +1,78 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "name": "Enterwell Quiz",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who was the first computer programmer for the Analytical Engine?",
+          "answer": "Ada"
+        },
+        {
+          "id": 2,
+          "question": "What does HTTP stand for?",
+          "answer": "HyperText"
+        },
+        {
+          "id": 3,
+          "question": "What is the smallest unit of memory?",
+          "answer": "Bit"
+        },
+        {
+          "id": 4,
+          "question": "What is the capital of France?",
+          "answer": "Paris"
+        },
+        {
+          "id": 5,
+          "question": "What is the name of the largest planet?",
+          "answer": "Jupiter"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Geography Quiz",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the capital of Spain?",
+          "answer": "Madrid"
+        },
+        {
+          "id": 2,
+          "question": "What is the longest river in Africa?",
+          "answer": "Nile"
+        },
+        {
+          "id": 3,
+          "question": "What is the largest ocean in the world?",
+          "answer": "Pacific"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "1",
+      "questions": [
+        {
+          "id": 1,
+          "question": "1",
+          "answer": "1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "asda",
+      "questions": [
+        {
+          "id": 1,
+          "question": "asda",
+          "answer": "asdasd"
+        }
+      ]
+    }
+  ]
+}
